@@ -1,0 +1,11 @@
+body{
+    margin:0;
+    background:#fff url(../images/body.gif) repeat-x;
+    font:11px/14px "Myriad Pro", Verdana, Arial, Helvetica, sans-serif;
+    color:#444;
+}
+img{border-style:none;}
+a{
+    text-decoration:underline;
+    color:#097338;
+}
